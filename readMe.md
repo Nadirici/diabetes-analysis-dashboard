@@ -64,7 +64,7 @@ pip install -r requirements.txt
 Once inside the `venv`:
 
 ```bash
-streamlit run app/app.py
+streamlit run app/dashbord.py
 ```
 
 The dashboard will open in your browser.
