@@ -76,6 +76,9 @@ The dashboard will open in your browser.
 ```
 project/
 │── app/                 # Streamlit app code
+│── code/                # code used to clean the datas
+│── data/                # data used
+│── plots/               # Generated plots
 │── report/              # Generated PDF reports
 │── requirements.txt     # Python dependencies
 │── README.md            # Documentation
