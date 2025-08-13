@@ -105,17 +105,3 @@ Inside the dashboard, after loading the dataset, you can:
 
 This project is open-source and available under the MIT License.
 
------
-
-Yes, I can generate the **`requirements.txt`** for you. It's a great idea to include it so your README is complete and users can easily set up the project. To generate it correctly, I'll need to know which libraries you used. Based on your project description, I'll assume you've used some common data analysis and visualization libraries.
-
-Here is a likely `requirements.txt` for your project:
-
-```
-streamlit
-pandas
-plotly
-reportlab
-```
-
-Would you like to add any other libraries to this list?
